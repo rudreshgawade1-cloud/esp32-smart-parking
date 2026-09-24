@@ -1,0 +1,13 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+
+# Arduino build output
+firmware/**/build/
+
+# If you do not want to publish the 3D models (check their licences first), uncomment:
+# web/models/*.glb
